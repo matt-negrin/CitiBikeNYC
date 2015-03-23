@@ -1,6 +1,6 @@
 Welcome to my Citibike analysis.
 
-To run the Shiny application 'Citibike,' you will first nead to run the loading and cleaning scripts inside of the scripts folder.
+To run the Shiny application 'Citibike,' you will first need to run the loading and cleaning scripts inside of the scripts folder.
 
 The scripts should be run in the following order:
 (1) load.R
