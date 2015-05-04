@@ -8,5 +8,5 @@ The scripts should be run in the following order:
 (3) clean2.R
 (4) clean3.R
 
-Before running load.R, open load.R and alter the working directory (setwd) in the first line so that it makes sense for your machine. I also recommend manually create a Citibike folder in your chosen working directory, with 'data' and 'images' subfolders. With these changes, you should be ready to go.
+Before running load.R, open load.R and alter the working directory (setwd) in the first line so that it makes sense for your machine. I also recommend manually creating a Citibike folder in your chosen working directory, with 'data' and 'images' subfolders. With these changes, you should be ready to go.
 
